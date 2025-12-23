@@ -15,5 +15,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@gimansabandara2001"
-          readme_path: "./README.md"
-          max_post_count: 5
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
