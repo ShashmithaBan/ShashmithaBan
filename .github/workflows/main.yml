@@ -1,9 +1,8 @@
 name: Latest Medium Posts
 on:
   schedule:
-    # Runs every 24 hours
     - cron: '0 0 * * *'
-  workflow_dispatch: # Allows you to run it manually
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
@@ -15,5 +14,6 @@ jobs:
       - name: Pull in Medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # Replace 'shashmitha' with your actual Medium username
           feed_list: "https://medium.com/feed/@gimansabandara2001"
+          readme_path: "./README.md"
+          max_post_count: 5
