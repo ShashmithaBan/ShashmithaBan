@@ -29,7 +29,6 @@ I’m a DevOps-focused undergraduate passionate about building, automating, and 
 ---
 
 ### ✍️ Latest Blog Posts
-*Checking for new posts...*
 [View all posts on Medium →](https://medium.com/@gimansabandara2001)
 
 ---
