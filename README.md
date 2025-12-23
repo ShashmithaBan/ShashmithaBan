@@ -37,11 +37,11 @@ I’m a DevOps-focused undergraduate passionate about building, automating, and 
 
 ---
 
-### ✍️ Latest Blog Posts (Manual)
+### ✍️ Latest Blog Posts 
 
-* 📝 [CI/CD with GitHub Actions – From Code to Cloud](https://medium.com/@gimansabandara2001/ci-cd-with-github-actions-from-code-to-cloud)
-* 📝 [Docker & Kubernetes Basics for Beginners](https://medium.com/@gimansabandara2001/docker-kubernetes-basics-for-beginners)
-* 📝 [Getting Started with Terraform on AWS](https://medium.com/@gimansabandara2001/getting-started-with-terraform-on-aws)
+* 📝 [Docker vs Kubernetes: Understanding the Difference and the Architecture Behind Kubernetes]([https://medium.com/@gimansabandara2001/ci-cd-with-github-actions-from-code-to-cloud](https://medium.com/@gimansabandara2001/docker-vs-kubernetes-understanding-the-difference-and-the-architecture-behind-kubernetes-d765c8926b71))
+* 📝 [Mastering GitHub Actions: From Basics to Expertise](https://medium.com/@gimansabandara2001/mastering-github-actions-from-basics-to-expertise-64411fa63c51)
+* 📝 [Mastering Terraform: From Basics to Modular Infrastructure with Real Examples]([https://medium.com/@gimansabandara2001/getting-started-with-terraform-on-aws](https://medium.com/@gimansabandara2001/mastering-terraform-from-basics-to-modular-infrastructure-with-real-examples-cf62e9755500))
 
 ---
 
