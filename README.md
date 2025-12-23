@@ -1,6 +1,10 @@
 # Hi there, I'm Shashmitha Bandara 👋 
 ### Final Year Undergraduate | Aspiring DevOps Engineer | Cloud & Automation Enthusiast
 
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/blob/main/DevOps.gif?raw=true" width="600" alt="DevOps Animation">
+</p>
+
 I’m a DevOps-focused undergraduate passionate about building, automating, and scaling cloud-native systems. I thrive at the intersection of development and operations, focusing on CI/CD pipelines, container orchestration, and Infrastructure as Code (IaC). My mission is to design reliable, secure, and scalable systems using modern DevOps practices.
 
 ---
