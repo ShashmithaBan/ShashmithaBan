@@ -39,7 +39,7 @@ I’m a DevOps-focused undergraduate passionate about building, automating, and 
 
 ### ✍️ Latest Blog Posts 
 
-* 📝 [Docker vs Kubernetes: Understanding the Difference and the Architecture Behind Kubernetes]([https://medium.com/@gimansabandara2001/ci-cd-with-github-actions-from-code-to-cloud](https://medium.com/@gimansabandara2001/docker-vs-kubernetes-understanding-the-difference-and-the-architecture-behind-kubernetes-d765c8926b71))
+* 📝 [Docker vs Kubernetes: Understanding the Difference and the Architecture Behind Kubernetes]([https://medium.com/@gimansabandara2001/ci-cd-with-github-actions-from-code-to-cloud](https://medium.com/@gimansabandara2001/docker-vs-kubernetes-understanding-the-difference-and-the-architecture-behind-kubernetes-d765c8926b71)
 * 📝 [Mastering GitHub Actions: From Basics to Expertise](https://medium.com/@gimansabandara2001/mastering-github-actions-from-basics-to-expertise-64411fa63c51)
 * 📝 [Mastering Terraform: From Basics to Modular Infrastructure with Real Examples]([https://medium.com/@gimansabandara2001/getting-started-with-terraform-on-aws](https://medium.com/@gimansabandara2001/mastering-terraform-from-basics-to-modular-infrastructure-with-real-examples-cf62e9755500))
 
@@ -60,9 +60,9 @@ I’m a DevOps-focused undergraduate passionate about building, automating, and 
 * 🧪 Experimenting with **GitOps** and **Prometheus/Grafana** for monitoring.
 
 ### 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashmitha-bandara-90180225a/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gimansabandara2001)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gimansabandara2001@gmail.com)
 
 ---
 *“Automate everything, document what you can’t.”*
