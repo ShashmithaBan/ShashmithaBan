@@ -1,11 +1,17 @@
 # Hi there, I'm Shashmitha Bandara 👋 
 ### Final Year Undergraduate | Aspiring DevOps Engineer | Cloud & Automation Enthusiast
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6bmZ6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3Amb2Y9Zw/3o7TKVUn7iM8FMEU24/giphy.gif" width="400" alt="DevOps Loop">
-</p>
+
 
 I’m a DevOps-focused undergraduate passionate about building, automating, and scaling cloud-native systems. I thrive at the intersection of development and operations, focusing on CI/CD pipelines, container orchestration, and Infrastructure as Code (IaC). My mission is to design reliable, secure, and scalable systems using modern DevOps practices.
+
+---
+
+### 🐍 Contribution Snake Game
+<p align="center">
+  <img src="https://github.com/ShashmithaBan/ShashmithaBan/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
+</p>
+
 
 ---
 
