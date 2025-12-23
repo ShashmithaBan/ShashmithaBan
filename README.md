@@ -28,12 +28,9 @@ I’m a DevOps-focused undergraduate passionate about building, automating, and 
 
 ---
 
-### ✍️ Recent Blog Posts
-I write about DevOps, cloud learning, and hands-on labs on [Medium](YOUR_MEDIUM_PROFILE_URL).
-
-* 📝 [CI/CD with GitHub Actions – From Code to Cloud](YOUR_LINK_HERE)
-* 📝 [Docker & Kubernetes Basics for Beginners](YOUR_LINK_HERE)
-* 📝 [Getting Started with Terraform on AWS](YOUR_LINK_HERE)
+### ✍️ Latest Blog Posts
+*Checking for new posts...*
+[View all posts on Medium →](https://medium.com/@gimansabandara2001)
 
 ---
 
