@@ -2,7 +2,7 @@
 ### Final Year Undergraduate | Aspiring DevOps Engineer | Cloud & Automation Enthusiast
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/blob/main/DevOps.gif?raw=true" width="600" alt="DevOps Animation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6bmZ6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3Amb2Y9Zw/3o7TKVUn7iM8FMEU24/giphy.gif" width="400" alt="DevOps Loop">
 </p>
 
 I’m a DevOps-focused undergraduate passionate about building, automating, and scaling cloud-native systems. I thrive at the intersection of development and operations, focusing on CI/CD pipelines, container orchestration, and Infrastructure as Code (IaC). My mission is to design reliable, secure, and scalable systems using modern DevOps practices.
@@ -31,19 +31,11 @@ I’m a DevOps-focused undergraduate passionate about building, automating, and 
 
 ---
 
+### ✍️ Latest Blog Posts (Manual)
 
-
-### ✍️ Latest Blog Posts
-
-
-
-
-<br/>
-
-[View all posts on Medium →](https://medium.com/@gimansabandara2001)
-
-
-
+* 📝 [CI/CD with GitHub Actions – From Code to Cloud](https://medium.com/@gimansabandara2001/ci-cd-with-github-actions-from-code-to-cloud)
+* 📝 [Docker & Kubernetes Basics for Beginners](https://medium.com/@gimansabandara2001/docker-kubernetes-basics-for-beginners)
+* 📝 [Getting Started with Terraform on AWS](https://medium.com/@gimansabandara2001/getting-started-with-terraform-on-aws)
 
 ---
 
