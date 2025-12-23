@@ -1,20 +1,57 @@
-<h1 align="center"> 💫 About Me:</h1>
-Hi, Im Shashmitha Bandara , 👋 Greetings, fellow wanderer in the realms of code! 🚀 Welcome to my GitHub sanctuary, where I craft code like a sorcerer casts spells. ⚡️ Join me on this magical journey through Cloud Computing and DevOps sorcery as we build a future as bright as the stars! 🌟 Let's connect and embark on this enchanting adventure together. 🎩✨
+# Hi there, I'm Shashmitha Bandara 👋 
+### Final Year Undergraduate | Aspiring DevOps Engineer | Cloud & Automation Enthusiast
 
+I’m a DevOps-focused undergraduate passionate about building, automating, and scaling cloud-native systems. I thrive at the intersection of development and operations, focusing on CI/CD pipelines, container orchestration, and Infrastructure as Code (IaC). My mission is to design reliable, secure, and scalable systems using modern DevOps practices.
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/gimansabandara) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/gimansa.bandara/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shashmitha_2001/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shashmitha-bandara-90180225a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@gimansabandara2001) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 🚀 What I Bring to the Table
 
+* **☁️ DevOps & Cloud:** Hands-on with AWS (EC2, S3, IAM, VPC), CI/CD via GitHub Actions, and containerization with Docker.
+* **🛠️ Infrastructure as Code:** Building automated environments using Terraform.
+* **🧑‍💻 Software Development:** Backend & automation scripting with Python and Java.
+* **🐧 Systems:** Strong grasp of Linux fundamentals, Shell scripting, and Cloud Networking.
 
-<h1 align="center">✍️ Random Dev Quote</h1>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="Random Dev Quote"/>
+---
+
+### 🛠️ Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| **DevOps/IAC** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+
+---
+
+### ✍️ Recent Blog Posts
+I write about DevOps, cloud learning, and hands-on labs on [Medium](YOUR_MEDIUM_PROFILE_URL).
+
+* 📝 [CI/CD with GitHub Actions – From Code to Cloud](YOUR_LINK_HERE)
+* 📝 [Docker & Kubernetes Basics for Beginners](YOUR_LINK_HERE)
+* 📝 [Getting Started with Terraform on AWS](YOUR_LINK_HERE)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ShashmithaBan&show_icons=true&theme=radical" alt="Shashmitha's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashmithaBan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
 
+### 🌱 Currently...
+* 🎓 Finishing my final year of undergraduate studies.
+* ☁️ Deepening my knowledge in **Kubernetes** and **Terraform Cloud**.
+* 🧪 Experimenting with **GitOps** and **Prometheus/Grafana** for monitoring.
 
+### 🤝 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](YOUR_MEDIUM_PROFILE_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+*“Automate everything, document what you can’t.”*
