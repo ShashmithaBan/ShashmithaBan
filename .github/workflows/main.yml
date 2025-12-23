@@ -6,7 +6,7 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -16,5 +16,7 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@gimansabandara2001"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_username: "github-actions[bot]"
-          committer_email: "github-actions[bot]@users.noreply.github.com"
+          # These extra settings help force the connection
+          readme_path: "./README.md"
+          max_post_count: 5
+          template: "$newline- [$title]($url)"
