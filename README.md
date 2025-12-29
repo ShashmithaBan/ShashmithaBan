@@ -25,9 +25,10 @@ I’m a DevOps-focused undergraduate passionate about building, automating, and 
 ---
 
 ## 🛠 Tech Stack
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,aws,nginx,kubernetes,docker,git,jenkins,githubactions,bash,terraform,html,css,c,php,tailwind,vite,react,js,java,nodejs,spring,bootstrap,express,jquery,maven,mysql,mongodb,github,postman,discord,vscode,ps,pr,ae,figma&perline=13&theme=light" />
+    <img src="https://skillicons.dev/icons?i=linux,aws,nginx,kubernetes,docker,git,jenkins,githubactions,bash,terraform,html,css,c,php,tailwind,vite,react,nextjs,js,java,nodejs,spring,bootstrap,express,jquery,maven,mysql,mongodb,github,postman,discord,vscode,ps,ai,pr,ae,xd,au,figma&perline=13&theme=light" />
   </a>
 </p>
 
