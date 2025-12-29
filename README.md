@@ -13,7 +13,9 @@ I’m a DevOps-focused undergraduate passionate about building, automating, and 
 </p>
 
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
+</p>
 
 ### 🚀 What I Bring to the Table
 
