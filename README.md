@@ -30,6 +30,7 @@ I’m a DevOps-focused undergraduate passionate about building, automating, and 
     <img src="https://skillicons.dev/icons?i=linux,aws,nginx,kubernetes,docker,git,jenkins,githubactions,ansible,html,css,c,php,tailwind,vite,react,js,java,nodejs,spring,bootstrap,express,jquery,maven,mysql,mongodb,powershell,github,postman,discord,vscode,idea,netdata,ps,ai,pr,ae,xd,au,davinci,figma&perline=13" />
   </a>
 </p>
+
 ---
 
 ### ✍️ Latest Blog Posts 
