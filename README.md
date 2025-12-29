@@ -5,7 +5,7 @@
 
 I’m a DevOps-focused undergraduate passionate about building, automating, and scaling cloud-native systems. I thrive at the intersection of development and operations, focusing on CI/CD pipelines, container orchestration, and Infrastructure as Code (IaC). My mission is to design reliable, secure, and scalable systems using modern DevOps practices.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
 
 ### 🐍 Contribution Snake Game
 <p align="center">
@@ -22,7 +22,7 @@ I’m a DevOps-focused undergraduate passionate about building, automating, and 
 * **🧑‍💻 Software Development:** Backend & automation scripting with Python and Java.
 * **🐧 Systems:** Strong grasp of Linux fundamentals, Shell scripting, and Cloud Networking.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
 
 ## 🛠 Tech Stack
 
@@ -32,7 +32,7 @@ I’m a DevOps-focused undergraduate passionate about building, automating, and 
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
 
 ### ✍️ Latest Blog Posts 
 
@@ -40,7 +40,7 @@ I’m a DevOps-focused undergraduate passionate about building, automating, and 
 * 📝 [Mastering GitHub Actions: From Basics to Expertise](https://medium.com/@gimansabandara2001/mastering-github-actions-from-basics-to-expertise-64411fa63c51)
 * 📝 [Mastering Terraform: From Basics to Modular Infrastructure with Real Examples](https://medium.com/@gimansabandara2001/mastering-terraform-from-basics-to-modular-infrastructure-with-real-examples-cf62e9755500)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
 
 ### 📊 GitHub Stats
 
@@ -49,17 +49,19 @@ I’m a DevOps-focused undergraduate passionate about building, automating, and 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashmithaBan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
 
 ### 🌱 Currently...
 * 🎓 Finishing my final year of undergraduate studies.
 * ☁️ Deepening my knowledge in **Kubernetes** and **Terraform Cloud**.
 * 🧪 Experimenting with **GitOps** and **Prometheus/Grafana** for monitoring.
+  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
 
 ### 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashmitha-bandara-90180225a/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gimansabandara2001)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gimansabandara2001@gmail.com)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
 *“Automate everything, document what you can’t.”*
