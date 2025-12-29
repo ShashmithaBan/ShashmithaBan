@@ -61,7 +61,7 @@ I’m a DevOps-focused undergraduate passionate about building, automating, and 
 
 ### 🤝 Let's Connect!
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/shashmitha-bandara-90180225a/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="40" />
   </a>
