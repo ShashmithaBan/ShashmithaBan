@@ -60,9 +60,18 @@ I’m a DevOps-focused undergraduate passionate about building, automating, and 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
 
 ### 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashmitha-bandara-90180225a/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gimansabandara2001)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gimansabandara2001@gmail.com)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shashmitha-bandara-90180225a/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="40" />
+  </a>
+  <a href="https://medium.com/@gimansabandara2001">
+    <img src="https://skillicons.dev/icons?i=medium&theme=light" height="40" />
+  </a>
+  <a href="mailto:gimansabandara2001@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="40" />
+  </a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
 *“Automate everything, document what you can’t.”*
