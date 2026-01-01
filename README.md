@@ -43,14 +43,6 @@ I’m a DevOps-focused undergraduate passionate about building, automating, and 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
 
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ShashmithaBan&show_icons=true&theme=radical" alt="Shashmitha's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashmithaBan&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
 
 ### 🌱 Currently...
 * 🎓 Finishing my final year of undergraduate studies.
