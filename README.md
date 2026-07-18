@@ -106,17 +106,49 @@ I'm a **Software Engineering graduate** and **DevOps engineer** passionate about
 
 ## ✍️ Latest Blog Posts
 
-| | |
-| --- | --- |
-| 📝 **[Docker vs Kubernetes](https://medium.com/@gimansabandara2001/docker-vs-kubernetes-understanding-the-difference-and-the-architecture-behind-kubernetes-d765c8926b71)** | Understanding the difference and the architecture behind Kubernetes. |
-| 📝 **[Mastering GitHub Actions](https://medium.com/@gimansabandara2001/mastering-github-actions-from-basics-to-expertise-64411fa63c51)** | From basics to expertise. |
-| 📝 **[Mastering Terraform](https://medium.com/@gimansabandara2001/mastering-terraform-from-basics-to-modular-infrastructure-with-real-examples-cf62e9755500)** | From basics to modular infrastructure with real examples. |
+<table width="100%">
+  <tr>
+    <td width="56" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" /></td>
+    <td valign="middle">
+      <b><a href="https://medium.com/@gimansabandara2001/docker-vs-kubernetes-understanding-the-difference-and-the-architecture-behind-kubernetes-d765c8926b71">Docker vs Kubernetes</a></b><br/>
+      <sub>Understanding the difference and the architecture behind Kubernetes.</sub>
+    </td>
+    <td align="right" valign="middle"><a href="https://medium.com/@gimansabandara2001/docker-vs-kubernetes-understanding-the-difference-and-the-architecture-behind-kubernetes-d765c8926b71"><img src="https://img.shields.io/badge/Read%20on%20Medium-38BDAF?style=for-the-badge&logo=medium&logoColor=white&labelColor=0b0b0d" /></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=githubactions" width="40" /></td>
+    <td valign="middle">
+      <b><a href="https://medium.com/@gimansabandara2001/mastering-github-actions-from-basics-to-expertise-64411fa63c51">Mastering GitHub Actions</a></b><br/>
+      <sub>From basics to expertise.</sub>
+    </td>
+    <td align="right" valign="middle"><a href="https://medium.com/@gimansabandara2001/mastering-github-actions-from-basics-to-expertise-64411fa63c51"><img src="https://img.shields.io/badge/Read%20on%20Medium-38BDAF?style=for-the-badge&logo=medium&logoColor=white&labelColor=0b0b0d" /></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=terraform" width="40" /></td>
+    <td valign="middle">
+      <b><a href="https://medium.com/@gimansabandara2001/mastering-terraform-from-basics-to-modular-infrastructure-with-real-examples-cf62e9755500">Mastering Terraform</a></b><br/>
+      <sub>From basics to modular infrastructure with real examples.</sub>
+    </td>
+    <td align="right" valign="middle"><a href="https://medium.com/@gimansabandara2001/mastering-terraform-from-basics-to-modular-infrastructure-with-real-examples-cf62e9755500"><img src="https://img.shields.io/badge/Read%20on%20Medium-38BDAF?style=for-the-badge&logo=medium&logoColor=white&labelColor=0b0b0d" /></a></td>
+  </tr>
+</table>
 
 ## 🌱 Currently...
 
-- 🚀 Working as an **Intern DevOps Engineer** at **H2O.ai**.
-- ☁️ Deepening my knowledge in **Kubernetes** and **Terraform Cloud**.
-- 🧪 Experimenting with **GitOps** and **Prometheus / Grafana** for monitoring.
+<table width="100%">
+  <tr>
+    <td width="120" align="center" valign="middle"><img src="https://img.shields.io/badge/%E2%97%89%20WORKING-38BDAF?style=for-the-badge&labelColor=0b0b0d" /></td>
+    <td valign="middle">🚀 Building & automating cloud-native systems as an <b>Intern DevOps Engineer</b> at <b>H2O.ai</b>.</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/%E2%9F%B3%20LEARNING-1f6feb?style=for-the-badge&labelColor=0b0b0d" /></td>
+    <td valign="middle">☁️ Going deeper into <b>Kubernetes</b> and <b>Terraform Cloud</b>.</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/%E2%9A%97%20EXPLORING-a371f7?style=for-the-badge&labelColor=0b0b0d" /></td>
+    <td valign="middle">🧪 Experimenting with <b>GitOps</b> and <b>Prometheus / Grafana</b> for observability.</td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
 
