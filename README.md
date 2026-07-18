@@ -62,38 +62,14 @@ I'm a **Software Engineering graduate** and **DevOps engineer** passionate about
 
 ## 🤝 Leadership & Volunteering
 
-<table width="100%">
-  <tr>
-    <td width="60" align="center" valign="middle"><img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" /></td>
-    <td valign="middle"><b>◇ Vice Chairperson</b> &nbsp;<img src="https://img.shields.io/badge/%E2%97%89%20LEAD-38BDAF?style=flat-square&labelColor=0b0b0d" /><br/><sub>IEEE Student Branch — University of Kelaniya</sub></td>
-    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Aug%202024%20%E2%86%92%20Aug%202025-0b0b0d?style=for-the-badge&logo=googlecalendar&logoColor=38BDAF&labelColor=0b0b0d" /></td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle"><img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" /></td>
-    <td valign="middle"><b>◇ Editor</b><br/><sub>IEEE Student Branch — University of Kelaniya</sub></td>
-    <td align="right" valign="middle"><img src="https://img.shields.io/badge/May%202023%20%E2%86%92%20Jul%202024-0b0b0d?style=for-the-badge&logo=googlecalendar&logoColor=8b949e&labelColor=0b0b0d" /></td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Rotaract-D41A69?style=for-the-badge&logo=rotaryinternational&logoColor=white" /></td>
-    <td valign="middle"><b>◇ Team Leader — Digital Media</b><br/><sub>Rotaract Club — University of Kelaniya</sub></td>
-    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Nov%202023%20%E2%86%92%20Nov%202024-0b0b0d?style=for-the-badge&logo=googlecalendar&logoColor=8b949e&labelColor=0b0b0d" /></td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Rotaract-D41A69?style=for-the-badge&logo=rotaryinternational&logoColor=white" /></td>
-    <td valign="middle"><b>◇ Co-Chair — Graphify</b><br/><sub>Rotaract Club — University of Kelaniya</sub></td>
-    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Dec%202023%20%E2%86%92%20Mar%202024-0b0b0d?style=for-the-badge&logo=googlecalendar&logoColor=8b949e&labelColor=0b0b0d" /></td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Rotaract-D41A69?style=for-the-badge&logo=rotaryinternational&logoColor=white" /></td>
-    <td valign="middle"><b>◇ PR Coordinator — Harawuma</b><br/><sub>Rotaract Club — University of Kelaniya</sub></td>
-    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Jan%202024%20%E2%86%92%20Apr%202024-0b0b0d?style=for-the-badge&logo=googlecalendar&logoColor=8b949e&labelColor=0b0b0d" /></td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Rotaract-D41A69?style=for-the-badge&logo=rotaryinternational&logoColor=white" /></td>
-    <td valign="middle"><b>◇ PR Coordinator — Spotlight 2.0</b><br/><sub>Rotaract Club — University of Kelaniya</sub></td>
-    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Aug%202023%20%E2%86%92%20Jan%202024-0b0b0d?style=for-the-badge&logo=googlecalendar&logoColor=8b949e&labelColor=0b0b0d" /></td>
-  </tr>
-</table>
+| Role | Organization | Period |
+| --- | --- | --- |
+| **🧭 Vice Chairperson** | IEEE Student Branch — University of Kelaniya | Aug 2024 – Aug 2025 |
+| **✏️ Editor** | IEEE Student Branch — University of Kelaniya | May 2023 – Jul 2024 |
+| **🎬 Team Leader — Digital Media** | Rotaract Club — University of Kelaniya | Nov 2023 – Nov 2024 |
+| **🎨 Co-Chair — Graphify** | Rotaract Club — University of Kelaniya | Dec 2023 – Mar 2024 |
+| **📣 PR Coordinator — Harawuma** | Rotaract Club — University of Kelaniya | Jan 2024 – Apr 2024 |
+| **📣 PR Coordinator — Spotlight 2.0** | Rotaract Club — University of Kelaniya | Aug 2023 – Jan 2024 |
 
 ## 🧰 Tech Stack
 
