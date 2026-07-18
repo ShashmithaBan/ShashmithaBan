@@ -96,11 +96,11 @@ I'm a **Software Engineering graduate** and **DevOps engineer** passionate about
 
 </div>
 
-## 🐍 Contribution Snake
+## 🔁 My Workflow — CI/CD in Motion
 
 <div align="center">
 
-<img src="https://github.com/ShashmithaBan/ShashmithaBan/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
+<img src="https://raw.githubusercontent.com/ShashmithaBan/ShashmithaBan/main/assets/pipeline.svg" width="100%" alt="Animated CI/CD pipeline: Commit, Build, Test, Deploy, Monitor" />
 
 </div>
 
