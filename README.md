@@ -81,24 +81,11 @@ I'm a **Software Engineering graduate** and **DevOps engineer** passionate about
 
 </div>
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShashmithaBan&show_icons=true&hide_border=true&title_color=38BDAF&icon_color=38BDAF&text_color=c9d1d9&bg_color=0b0b0d" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ShashmithaBan&hide_border=true&background=0b0b0d&stroke=38BDAF&ring=38BDAF&fire=38BDAF&currStreakLabel=38BDAF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
-
-<br>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashmithaBan&layout=compact&hide_border=true&title_color=38BDAF&text_color=c9d1d9&bg_color=0b0b0d&langs_count=8" alt="Top Languages" />
-
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShashmithaBan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies" />
+<img height="165" src="https://streak-stats.demolab.com/?user=ShashmithaBan&hide_border=true&background=0b0b0d&stroke=38BDAF&ring=38BDAF&fire=38BDAF&currStreakLabel=38BDAF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
 
 </div>
 
