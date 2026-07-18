@@ -33,56 +33,65 @@ I'm a **Software Engineering graduate** and **DevOps engineer** passionate about
 
 <table width="100%">
   <tr>
-    <td width="60" align="center" valign="middle"><img src="https://h2o.ai/content/experience-fragments/h2o/us/en/site/header/master/_jcr_content/root/container/header_copy/logo.coreimg.svg/1782337746232/h2o-logo.svg" width="48" alt="H2O.ai" /></td>
+    <td width="72" align="center" valign="middle"><img src="https://h2o.ai/content/experience-fragments/h2o/us/en/site/header/master/_jcr_content/root/container/header_copy/logo.coreimg.svg/1782337746232/h2o-logo.svg" width="52" alt="H2O.ai" /></td>
     <td valign="middle">
-      <b>Intern DevOps Engineer</b><br/>
-      <sub>🏢 H2O.ai &nbsp;·&nbsp; Full-time &nbsp;·&nbsp; Colombo, Sri Lanka &nbsp;·&nbsp; Hybrid</sub>
+      <b>◈ Intern DevOps Engineer</b><br/>
+      <img src="https://img.shields.io/badge/H2O.ai-38BDAF?style=flat-square&logo=h2o&logoColor=white&labelColor=0b0b0d" />
+      <img src="https://img.shields.io/badge/Full--time-1a1a1f?style=flat-square" />
+      <img src="https://img.shields.io/badge/Colombo,%20Sri%20Lanka-1a1a1f?style=flat-square" />
+      <img src="https://img.shields.io/badge/Hybrid-1a1a1f?style=flat-square" />
     </td>
-    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Apr%202026%20%E2%86%92%20Present-38BDAF?style=flat-square&labelColor=0b0b0d" /></td>
+    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Apr%202026%20%E2%86%92%20Present-0b0b0d?style=for-the-badge&logo=googlecalendar&logoColor=38BDAF&color=0b0b0d&labelColor=0b0b0d" /><br/><img src="https://img.shields.io/badge/%E2%97%89%20ACTIVE-38BDAF?style=flat-square&labelColor=0b0b0d" /></td>
   </tr>
+  <tr><td colspan="3"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="1px"></td></tr>
   <tr>
-    <td align="center" valign="middle"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaTiTNJhimuLhoRhwmpPjYdZEtIRTYt6alZ_cCTnM0mQ&s=10" width="44" alt="Ceyentra" /></td>
+    <td align="center" valign="middle"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaTiTNJhimuLhoRhwmpPjYdZEtIRTYt6alZ_cCTnM0mQ&s=10" width="48" alt="Ceyentra" /></td>
     <td valign="middle">
-      <b>Software Engineer Intern</b><br/>
-      <sub>🏢 Ceyentra Technologies &nbsp;·&nbsp; Sri Lanka</sub><br/>
-      <sub>⚛️ React.js · Redux · JavaScript — UI features, theme customization & API integrations in an Agile team.</sub>
+      <b>◈ Software Engineer Intern</b><br/>
+      <img src="https://img.shields.io/badge/Ceyentra%20Technologies-38BDAF?style=flat-square&labelColor=0b0b0d" />
+      <img src="https://img.shields.io/badge/React.js-1a1a1f?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Redux-1a1a1f?style=flat-square&logo=redux&logoColor=764ABC" />
+      <img src="https://img.shields.io/badge/JavaScript-1a1a1f?style=flat-square&logo=javascript&logoColor=F7DF1E" /><br/>
+      <sub>UI features, theme customization & API integrations in an Agile team.</sub>
     </td>
-    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Oct%202024%20%E2%86%92%20Apr%202025-8b949e?style=flat-square&labelColor=0b0b0d" /></td>
+    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Oct%202024%20%E2%86%92%20Apr%202025-0b0b0d?style=for-the-badge&logo=googlecalendar&logoColor=8b949e&color=0b0b0d&labelColor=0b0b0d" /></td>
   </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
 
 ## 🤝 Leadership & Volunteering
 
 <table width="100%">
   <tr>
-    <td width="52" align="center" valign="middle">🧭</td>
-    <td valign="middle"><b>Vice Chairperson</b><br/><sub>IEEE Student Branch — University of Kelaniya</sub></td>
-    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Aug%202024%20%E2%86%92%20Aug%202025-38BDAF?style=flat-square&labelColor=0b0b0d" /></td>
+    <td width="60" align="center" valign="middle"><img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" /></td>
+    <td valign="middle"><b>◇ Vice Chairperson</b> &nbsp;<img src="https://img.shields.io/badge/%E2%97%89%20LEAD-38BDAF?style=flat-square&labelColor=0b0b0d" /><br/><sub>IEEE Student Branch — University of Kelaniya</sub></td>
+    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Aug%202024%20%E2%86%92%20Aug%202025-0b0b0d?style=for-the-badge&logo=googlecalendar&logoColor=38BDAF&labelColor=0b0b0d" /></td>
   </tr>
   <tr>
-    <td align="center" valign="middle">✏️</td>
-    <td valign="middle"><b>Editor</b><br/><sub>IEEE Student Branch — University of Kelaniya</sub></td>
-    <td align="right" valign="middle"><img src="https://img.shields.io/badge/May%202023%20%E2%86%92%20Jul%202024-8b949e?style=flat-square&labelColor=0b0b0d" /></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" /></td>
+    <td valign="middle"><b>◇ Editor</b><br/><sub>IEEE Student Branch — University of Kelaniya</sub></td>
+    <td align="right" valign="middle"><img src="https://img.shields.io/badge/May%202023%20%E2%86%92%20Jul%202024-0b0b0d?style=for-the-badge&logo=googlecalendar&logoColor=8b949e&labelColor=0b0b0d" /></td>
   </tr>
   <tr>
-    <td align="center" valign="middle">🎬</td>
-    <td valign="middle"><b>Team Leader — Digital Media</b><br/><sub>Rotaract Club — University of Kelaniya</sub></td>
-    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Nov%202023%20%E2%86%92%20Nov%202024-8b949e?style=flat-square&labelColor=0b0b0d" /></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Rotaract-D41A69?style=for-the-badge&logo=rotaryinternational&logoColor=white" /></td>
+    <td valign="middle"><b>◇ Team Leader — Digital Media</b><br/><sub>Rotaract Club — University of Kelaniya</sub></td>
+    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Nov%202023%20%E2%86%92%20Nov%202024-0b0b0d?style=for-the-badge&logo=googlecalendar&logoColor=8b949e&labelColor=0b0b0d" /></td>
   </tr>
   <tr>
-    <td align="center" valign="middle">🎨</td>
-    <td valign="middle"><b>Co-Chair — Graphify</b><br/><sub>Rotaract Club — University of Kelaniya</sub></td>
-    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Dec%202023%20%E2%86%92%20Mar%202024-8b949e?style=flat-square&labelColor=0b0b0d" /></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Rotaract-D41A69?style=for-the-badge&logo=rotaryinternational&logoColor=white" /></td>
+    <td valign="middle"><b>◇ Co-Chair — Graphify</b><br/><sub>Rotaract Club — University of Kelaniya</sub></td>
+    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Dec%202023%20%E2%86%92%20Mar%202024-0b0b0d?style=for-the-badge&logo=googlecalendar&logoColor=8b949e&labelColor=0b0b0d" /></td>
   </tr>
   <tr>
-    <td align="center" valign="middle">📣</td>
-    <td valign="middle"><b>PR Coordinator — Harawuma</b><br/><sub>Rotaract Club — University of Kelaniya</sub></td>
-    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Jan%202024%20%E2%86%92%20Apr%202024-8b949e?style=flat-square&labelColor=0b0b0d" /></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Rotaract-D41A69?style=for-the-badge&logo=rotaryinternational&logoColor=white" /></td>
+    <td valign="middle"><b>◇ PR Coordinator — Harawuma</b><br/><sub>Rotaract Club — University of Kelaniya</sub></td>
+    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Jan%202024%20%E2%86%92%20Apr%202024-0b0b0d?style=for-the-badge&logo=googlecalendar&logoColor=8b949e&labelColor=0b0b0d" /></td>
   </tr>
   <tr>
-    <td align="center" valign="middle">📣</td>
-    <td valign="middle"><b>PR Coordinator — Spotlight 2.0</b><br/><sub>Rotaract Club — University of Kelaniya</sub></td>
-    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Aug%202023%20%E2%86%92%20Jan%202024-8b949e?style=flat-square&labelColor=0b0b0d" /></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Rotaract-D41A69?style=for-the-badge&logo=rotaryinternational&logoColor=white" /></td>
+    <td valign="middle"><b>◇ PR Coordinator — Spotlight 2.0</b><br/><sub>Rotaract Club — University of Kelaniya</sub></td>
+    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Aug%202023%20%E2%86%92%20Jan%202024-0b0b0d?style=for-the-badge&logo=googlecalendar&logoColor=8b949e&labelColor=0b0b0d" /></td>
   </tr>
 </table>
 
