@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" fill="none" role="img" aria-label="Thanks for visiting">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1200" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#071815"/>
+      <stop offset="0.5" stop-color="#0b0b0d"/>
+      <stop offset="1" stop-color="#050506"/>
+    </linearGradient>
+    <linearGradient id="facc" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38BDAF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#38BDAF"/>
+      <stop offset="1" stop-color="#38BDAF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="fglow" cx="50%" cy="0%" r="70%">
+      <stop offset="0" stop-color="#38BDAF" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#38BDAF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="fgrid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#38BDAF" fill-opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="200" fill="url(#fbg)"/>
+  <rect width="1200" height="200" fill="url(#fgrid)"/>
+  <rect width="1200" height="120" fill="url(#fglow)"/>
+
+  <!-- top accent line + scan dot -->
+  <rect x="0" y="0" width="1200" height="2.5" fill="url(#facc)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <circle cy="1.2" r="4" fill="#ffffff">
+    <animate attributeName="cx" values="200;1000;200" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- closing message -->
+  <text x="600" y="92" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="34" font-weight="800" fill="#ffffff" letter-spacing="1">
+    Thanks for visiting!
+  </text>
+  <text x="600" y="128" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',monospace" font-size="16" fill="#38BDAF" letter-spacing="2">
+    let's build reliable, scalable systems together
+  </text>
+  <text x="600" y="164" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',monospace" font-size="13" fill="#5f6a7a" letter-spacing="2">
+    &lt;/&gt;  with precision &amp; intentional craft
+  </text>
+</svg>
