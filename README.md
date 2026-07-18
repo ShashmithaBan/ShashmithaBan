@@ -76,8 +76,16 @@ I'm a **Software Engineering graduate** and **DevOps engineer** passionate about
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,aws,nginx,kubernetes,docker,git,jenkins,githubactions,bash,terraform,html,css,c,php,tailwind,vite,react,nextjs,js,java,nodejs,spring,bootstrap,express,jquery,maven,mysql,mongodb,github,postman,discord,vscode,ps,ai,pr,ae,xd,au,figma&perline=13&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,aws,azure,gcp,nginx,kubernetes,docker,git,jenkins,githubactions,bash,terraform,html,css,c,php,tailwind,vite,react,nextjs,js,java,nodejs,spring,bootstrap,express,jquery,maven,mysql,mongodb,github,postman,discord,vscode,ps,ai,pr,ae,xd,au,figma&perline=13&theme=dark" />
 </a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=opentofu&logoColor=black&labelColor=0b0b0d" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white&labelColor=0b0b0d" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0b0b0d" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=0b0b0d" />
+<img src="https://img.shields.io/badge/SerpAPI-5A67D8?style=for-the-badge&logo=google&logoColor=white&labelColor=0b0b0d" />
 
 </div>
 
