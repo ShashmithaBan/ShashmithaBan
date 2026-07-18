@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0d,100:38BDAF&height=220&section=header&text=Shashmitha%20Bandara&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20Automation%20Enthusiast&descSize=18&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0d,50:126e64,100:38BDAF&height=220&section=header&text=Shashmitha%20Bandara&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=DevOps%20Engineer%20%C2%B7%20Cloud%20%26%20Automation%20Enthusiast&descSize=18&descAlignY=60" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDAF&center=true&vCenter=true&width=650&height=55&lines=DevOps+Engineer+%40+H2O.ai;Cloud+%26+Automation+Enthusiast;Infrastructure+as+Code+Advocate;Container+Orchestration+with+Kubernetes" alt="Typing SVG" />
@@ -132,6 +132,6 @@ I'm a **Software Engineering graduate** and **DevOps engineer** passionate about
 
 <sub><i>"Automate everything, document what you can't."</i></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDAF,100:0b0b0d&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDAF,50:126e64,100:0b0b0d&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=ffffff&fontAlignY=72&animation=twinkling&desc=Let's%20build%20reliable%2C%20scalable%20systems%20together&descSize=14&descAlignY=92" width="100%" alt="footer" />
 
 </div>
