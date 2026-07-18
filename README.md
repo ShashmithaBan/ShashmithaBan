@@ -33,7 +33,7 @@ I'm a **Software Engineering graduate** and **DevOps engineer** passionate about
 
 <table width="100%">
   <tr>
-    <td width="52" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=kubernetes" width="38" /></td>
+    <td width="60" align="center" valign="middle"><img src="https://h2o.ai/content/experience-fragments/h2o/us/en/site/header/master/_jcr_content/root/container/header_copy/logo.coreimg.svg/1782337746232/h2o-logo.svg" width="48" alt="H2O.ai" /></td>
     <td valign="middle">
       <b>Intern DevOps Engineer</b><br/>
       <sub>🏢 H2O.ai &nbsp;·&nbsp; Full-time &nbsp;·&nbsp; Colombo, Sri Lanka &nbsp;·&nbsp; Hybrid</sub>
@@ -41,7 +41,7 @@ I'm a **Software Engineering graduate** and **DevOps engineer** passionate about
     <td align="right" valign="middle"><img src="https://img.shields.io/badge/Apr%202026%20%E2%86%92%20Present-38BDAF?style=flat-square&labelColor=0b0b0d" /></td>
   </tr>
   <tr>
-    <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=react" width="38" /></td>
+    <td align="center" valign="middle"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaTiTNJhimuLhoRhwmpPjYdZEtIRTYt6alZ_cCTnM0mQ&s=10" width="44" alt="Ceyentra" /></td>
     <td valign="middle">
       <b>Software Engineer Intern</b><br/>
       <sub>🏢 Ceyentra Technologies &nbsp;·&nbsp; Sri Lanka</sub><br/>
