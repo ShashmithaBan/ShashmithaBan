@@ -2,19 +2,19 @@
   <defs>
     <linearGradient id="pbg" x1="0" y1="0" x2="1200" y2="240" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#0b0b0d"/>
-      <stop offset="1" stop-color="#071815"/>
+      <stop offset="1" stop-color="#1a1206"/>
     </linearGradient>
     <linearGradient id="track" x1="120" y1="0" x2="1080" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#38BDAF" stop-opacity="0.25"/>
-      <stop offset="1" stop-color="#38BDAF" stop-opacity="0.25"/>
+      <stop offset="0" stop-color="#F59E0B" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#F59E0B" stop-opacity="0.25"/>
     </linearGradient>
     <radialGradient id="packet" cx="50%" cy="50%" r="50%">
       <stop offset="0" stop-color="#ffffff"/>
-      <stop offset="0.4" stop-color="#9defe0"/>
-      <stop offset="1" stop-color="#38BDAF" stop-opacity="0"/>
+      <stop offset="0.4" stop-color="#ffd28a"/>
+      <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
     </radialGradient>
     <pattern id="pgrid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <circle cx="1.5" cy="1.5" r="1.5" fill="#38BDAF" fill-opacity="0.07"/>
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#F59E0B" fill-opacity="0.07"/>
     </pattern>
   </defs>
 
@@ -22,7 +22,7 @@
   <rect width="1200" height="240" rx="18" fill="url(#pgrid)"/>
 
   <!-- header label -->
-  <text x="600" y="44" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',monospace" font-size="16" fill="#38BDAF" letter-spacing="4">
+  <text x="600" y="44" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',monospace" font-size="16" fill="#F59E0B" letter-spacing="4">
     <tspan fill="#5f6a7a">$ </tspan>./deploy --pipeline
   </text>
 
@@ -32,21 +32,21 @@
   <!-- ================= STAGES ================= -->
   <!-- Commit -->
   <g>
-    <circle cx="150" cy="130" r="42" fill="#0e0e12" stroke="#38BDAF" stroke-width="2.5" opacity="0.35"/>
-    <circle cx="150" cy="130" r="42" fill="none" stroke="#38BDAF" stroke-width="3">
+    <circle cx="150" cy="130" r="42" fill="#0e0e12" stroke="#F59E0B" stroke-width="2.5" opacity="0.35"/>
+    <circle cx="150" cy="130" r="42" fill="none" stroke="#F59E0B" stroke-width="3">
       <animate attributeName="opacity" dur="6s" repeatCount="indefinite" keyTimes="0;0.25;0.5;0.75;1" values="1;0.15;0.15;0.15;1"/>
     </circle>
-    <text x="150" y="137" text-anchor="middle" font-family="monospace" font-size="20" font-weight="700" fill="#38BDAF">&lt;/&gt;</text>
+    <text x="150" y="137" text-anchor="middle" font-family="monospace" font-size="20" font-weight="700" fill="#F59E0B">&lt;/&gt;</text>
     <text x="150" y="200" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" fill="#c9d1d9" letter-spacing="1">COMMIT</text>
   </g>
 
   <!-- Build (spinning gear) -->
   <g>
-    <circle cx="375" cy="130" r="42" fill="#0e0e12" stroke="#38BDAF" stroke-width="2.5" opacity="0.35"/>
-    <circle cx="375" cy="130" r="42" fill="none" stroke="#38BDAF" stroke-width="3">
+    <circle cx="375" cy="130" r="42" fill="#0e0e12" stroke="#F59E0B" stroke-width="2.5" opacity="0.35"/>
+    <circle cx="375" cy="130" r="42" fill="none" stroke="#F59E0B" stroke-width="3">
       <animate attributeName="opacity" dur="6s" repeatCount="indefinite" keyTimes="0;0.25;0.5;0.75;1" values="0.15;1;0.15;0.15;0.15"/>
     </circle>
-    <text x="375" y="141" text-anchor="middle" font-family="monospace" font-size="26" fill="#9defe0">⚙
+    <text x="375" y="141" text-anchor="middle" font-family="monospace" font-size="26" fill="#ffd28a">⚙
       <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 375 132" to="360 375 132" dur="5s" repeatCount="indefinite"/>
     </text>
     <text x="375" y="200" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" fill="#c9d1d9" letter-spacing="1">BUILD</text>
@@ -54,31 +54,31 @@
 
   <!-- Test -->
   <g>
-    <circle cx="600" cy="130" r="42" fill="#0e0e12" stroke="#38BDAF" stroke-width="2.5" opacity="0.35"/>
-    <circle cx="600" cy="130" r="42" fill="none" stroke="#38BDAF" stroke-width="3">
+    <circle cx="600" cy="130" r="42" fill="#0e0e12" stroke="#F59E0B" stroke-width="2.5" opacity="0.35"/>
+    <circle cx="600" cy="130" r="42" fill="none" stroke="#F59E0B" stroke-width="3">
       <animate attributeName="opacity" dur="6s" repeatCount="indefinite" keyTimes="0;0.25;0.5;0.75;1" values="0.15;0.15;1;0.15;0.15"/>
     </circle>
-    <text x="600" y="140" text-anchor="middle" font-family="monospace" font-size="30" font-weight="700" fill="#38BDAF">✓</text>
+    <text x="600" y="140" text-anchor="middle" font-family="monospace" font-size="30" font-weight="700" fill="#F59E0B">✓</text>
     <text x="600" y="200" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" fill="#c9d1d9" letter-spacing="1">TEST</text>
   </g>
 
   <!-- Deploy -->
   <g>
-    <circle cx="825" cy="130" r="42" fill="#0e0e12" stroke="#38BDAF" stroke-width="2.5" opacity="0.35"/>
-    <circle cx="825" cy="130" r="42" fill="none" stroke="#38BDAF" stroke-width="3">
+    <circle cx="825" cy="130" r="42" fill="#0e0e12" stroke="#F59E0B" stroke-width="2.5" opacity="0.35"/>
+    <circle cx="825" cy="130" r="42" fill="none" stroke="#F59E0B" stroke-width="3">
       <animate attributeName="opacity" dur="6s" repeatCount="indefinite" keyTimes="0;0.25;0.5;0.75;1" values="0.15;0.15;0.15;1;0.15"/>
     </circle>
-    <text x="825" y="142" text-anchor="middle" font-family="monospace" font-size="26" fill="#9defe0">▲</text>
+    <text x="825" y="142" text-anchor="middle" font-family="monospace" font-size="26" fill="#ffd28a">▲</text>
     <text x="825" y="200" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" fill="#c9d1d9" letter-spacing="1">DEPLOY</text>
   </g>
 
   <!-- Monitor (pulsing) -->
   <g>
-    <circle cx="1050" cy="130" r="42" fill="#0e0e12" stroke="#38BDAF" stroke-width="2.5" opacity="0.35"/>
-    <circle cx="1050" cy="130" r="42" fill="none" stroke="#38BDAF" stroke-width="3">
+    <circle cx="1050" cy="130" r="42" fill="#0e0e12" stroke="#F59E0B" stroke-width="2.5" opacity="0.35"/>
+    <circle cx="1050" cy="130" r="42" fill="none" stroke="#F59E0B" stroke-width="3">
       <animate attributeName="opacity" dur="6s" repeatCount="indefinite" keyTimes="0;0.25;0.5;0.75;1" values="0.15;0.15;0.15;0.15;1"/>
     </circle>
-    <path d="M1030 132 l10 -14 l8 20 l8 -26 l6 20 h6" fill="none" stroke="#38BDAF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1030 132 l10 -14 l8 20 l8 -26 l6 20 h6" fill="none" stroke="#F59E0B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
     <text x="1050" y="200" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" fill="#c9d1d9" letter-spacing="1">MONITOR</text>
   </g>
 

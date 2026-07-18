@@ -3,16 +3,16 @@
 <img src="https://raw.githubusercontent.com/ShashmithaBan/ShashmithaBan/main/assets/header.svg" width="100%" alt="Shashmitha Bandara — DevOps Engineer" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDAF&center=true&vCenter=true&width=650&height=55&lines=DevOps+Engineer+%40+H2O.ai;Cloud+%26+Automation+Enthusiast;Infrastructure+as+Code+Advocate;Container+Orchestration+with+Kubernetes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&height=55&lines=DevOps+Engineer+%40+H2O.ai;Cloud+%26+Automation+Enthusiast;Infrastructure+as+Code+Advocate;Container+Orchestration+with+Kubernetes" alt="Typing SVG" />
 </a>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-38BDAF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0b0d)](https://www.linkedin.com/in/shashmitha-bandara-90180225a/)
-[![Medium](https://img.shields.io/badge/Medium-read-38BDAF?style=for-the-badge&logo=medium&logoColor=white&labelColor=0b0b0d)](https://medium.com/@gimansabandara2001)
-[![Email](https://img.shields.io/badge/Email-say%20hi-38BDAF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0b0d)](mailto:gimansabandara2001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-F59E0B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0b0d)](https://www.linkedin.com/in/shashmitha-bandara-90180225a/)
+[![Medium](https://img.shields.io/badge/Medium-read-F59E0B?style=for-the-badge&logo=medium&logoColor=white&labelColor=0b0b0d)](https://medium.com/@gimansabandara2001)
+[![Email](https://img.shields.io/badge/Email-say%20hi-F59E0B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0b0d)](mailto:gimansabandara2001@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ShashmithaBan&label=Profile%20Views&color=38BDAF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ShashmithaBan&label=Profile%20Views&color=F59E0B&style=for-the-badge)
 
 </div>
 
@@ -36,19 +36,19 @@ I'm a **Software Engineering graduate** and **DevOps engineer** passionate about
     <td width="72" align="center" valign="middle"><img src="https://h2o.ai/content/experience-fragments/h2o/us/en/site/header/master/_jcr_content/root/container/header_copy/logo.coreimg.svg/1782337746232/h2o-logo.svg" width="52" alt="H2O.ai" /></td>
     <td valign="middle">
       <b>◈ Intern DevOps Engineer</b><br/>
-      <img src="https://img.shields.io/badge/H2O.ai-38BDAF?style=flat-square&logo=h2o&logoColor=white&labelColor=0b0b0d" />
+      <img src="https://img.shields.io/badge/H2O.ai-F59E0B?style=flat-square&logo=h2o&logoColor=white&labelColor=0b0b0d" />
       <img src="https://img.shields.io/badge/Full--time-1a1a1f?style=flat-square" />
       <img src="https://img.shields.io/badge/Colombo,%20Sri%20Lanka-1a1a1f?style=flat-square" />
       <img src="https://img.shields.io/badge/Hybrid-1a1a1f?style=flat-square" />
     </td>
-    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Apr%202026%20%E2%86%92%20Present-0b0b0d?style=for-the-badge&logo=googlecalendar&logoColor=38BDAF&color=0b0b0d&labelColor=0b0b0d" /><br/><img src="https://img.shields.io/badge/%E2%97%89%20ACTIVE-38BDAF?style=flat-square&labelColor=0b0b0d" /></td>
+    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Apr%202026%20%E2%86%92%20Present-0b0b0d?style=for-the-badge&logo=googlecalendar&logoColor=F59E0B&color=0b0b0d&labelColor=0b0b0d" /><br/><img src="https://img.shields.io/badge/%E2%97%89%20ACTIVE-F59E0B?style=flat-square&labelColor=0b0b0d" /></td>
   </tr>
   <tr><td colspan="3"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="1px"></td></tr>
   <tr>
     <td align="center" valign="middle"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaTiTNJhimuLhoRhwmpPjYdZEtIRTYt6alZ_cCTnM0mQ&s=10" width="48" alt="Ceyentra" /></td>
     <td valign="middle">
       <b>◈ Software Engineer Intern</b><br/>
-      <img src="https://img.shields.io/badge/Ceyentra%20Technologies-38BDAF?style=flat-square&labelColor=0b0b0d" />
+      <img src="https://img.shields.io/badge/Ceyentra%20Technologies-F59E0B?style=flat-square&labelColor=0b0b0d" />
       <img src="https://img.shields.io/badge/React.js-1a1a1f?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Redux-1a1a1f?style=flat-square&logo=redux&logoColor=764ABC" />
       <img src="https://img.shields.io/badge/JavaScript-1a1a1f?style=flat-square&logo=javascript&logoColor=F7DF1E" /><br/>
@@ -92,7 +92,7 @@ I'm a **Software Engineering graduate** and **DevOps engineer** passionate about
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashmithaBan&hide_border=true&bg_color=0b0b0d&color=38BDAF&line=38BDAF&point=ffffff&area=true&area_color=38BDAF" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashmithaBan&hide_border=true&bg_color=0b0b0d&color=F59E0B&line=F59E0B&point=ffffff&area=true&area_color=F59E0B" width="100%" alt="Activity Graph" />
 
 </div>
 
@@ -113,7 +113,7 @@ I'm a **Software Engineering graduate** and **DevOps engineer** passionate about
       <b><a href="https://medium.com/@gimansabandara2001/docker-vs-kubernetes-understanding-the-difference-and-the-architecture-behind-kubernetes-d765c8926b71">Docker vs Kubernetes</a></b><br/>
       <sub>Understanding the difference and the architecture behind Kubernetes.</sub>
     </td>
-    <td align="right" valign="middle"><a href="https://medium.com/@gimansabandara2001/docker-vs-kubernetes-understanding-the-difference-and-the-architecture-behind-kubernetes-d765c8926b71"><img src="https://img.shields.io/badge/Read%20on%20Medium-38BDAF?style=for-the-badge&logo=medium&logoColor=white&labelColor=0b0b0d" /></a></td>
+    <td align="right" valign="middle"><a href="https://medium.com/@gimansabandara2001/docker-vs-kubernetes-understanding-the-difference-and-the-architecture-behind-kubernetes-d765c8926b71"><img src="https://img.shields.io/badge/Read%20on%20Medium-F59E0B?style=for-the-badge&logo=medium&logoColor=white&labelColor=0b0b0d" /></a></td>
   </tr>
   <tr>
     <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=githubactions" width="40" /></td>
@@ -121,7 +121,7 @@ I'm a **Software Engineering graduate** and **DevOps engineer** passionate about
       <b><a href="https://medium.com/@gimansabandara2001/mastering-github-actions-from-basics-to-expertise-64411fa63c51">Mastering GitHub Actions</a></b><br/>
       <sub>From basics to expertise.</sub>
     </td>
-    <td align="right" valign="middle"><a href="https://medium.com/@gimansabandara2001/mastering-github-actions-from-basics-to-expertise-64411fa63c51"><img src="https://img.shields.io/badge/Read%20on%20Medium-38BDAF?style=for-the-badge&logo=medium&logoColor=white&labelColor=0b0b0d" /></a></td>
+    <td align="right" valign="middle"><a href="https://medium.com/@gimansabandara2001/mastering-github-actions-from-basics-to-expertise-64411fa63c51"><img src="https://img.shields.io/badge/Read%20on%20Medium-F59E0B?style=for-the-badge&logo=medium&logoColor=white&labelColor=0b0b0d" /></a></td>
   </tr>
   <tr>
     <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=terraform" width="40" /></td>
@@ -129,7 +129,7 @@ I'm a **Software Engineering graduate** and **DevOps engineer** passionate about
       <b><a href="https://medium.com/@gimansabandara2001/mastering-terraform-from-basics-to-modular-infrastructure-with-real-examples-cf62e9755500">Mastering Terraform</a></b><br/>
       <sub>From basics to modular infrastructure with real examples.</sub>
     </td>
-    <td align="right" valign="middle"><a href="https://medium.com/@gimansabandara2001/mastering-terraform-from-basics-to-modular-infrastructure-with-real-examples-cf62e9755500"><img src="https://img.shields.io/badge/Read%20on%20Medium-38BDAF?style=for-the-badge&logo=medium&logoColor=white&labelColor=0b0b0d" /></a></td>
+    <td align="right" valign="middle"><a href="https://medium.com/@gimansabandara2001/mastering-terraform-from-basics-to-modular-infrastructure-with-real-examples-cf62e9755500"><img src="https://img.shields.io/badge/Read%20on%20Medium-F59E0B?style=for-the-badge&logo=medium&logoColor=white&labelColor=0b0b0d" /></a></td>
   </tr>
 </table>
 
@@ -137,15 +137,15 @@ I'm a **Software Engineering graduate** and **DevOps engineer** passionate about
 
 <table width="100%">
   <tr>
-    <td width="120" align="center" valign="middle"><img src="https://img.shields.io/badge/%E2%97%89%20WORKING-38BDAF?style=for-the-badge&labelColor=0b0b0d" /></td>
+    <td width="120" align="center" valign="middle"><img src="https://img.shields.io/badge/%E2%97%89%20WORKING-F59E0B?style=for-the-badge&labelColor=0b0b0d" /></td>
     <td valign="middle">🚀 Building & automating cloud-native systems as an <b>Intern DevOps Engineer</b> at <b>H2O.ai</b>.</td>
   </tr>
   <tr>
-    <td align="center" valign="middle"><img src="https://img.shields.io/badge/%E2%9F%B3%20LEARNING-1f6feb?style=for-the-badge&labelColor=0b0b0d" /></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/%E2%9F%B3%20LEARNING-D97706?style=for-the-badge&labelColor=0b0b0d" /></td>
     <td valign="middle">☁️ Going deeper into <b>Kubernetes</b> and <b>Terraform Cloud</b>.</td>
   </tr>
   <tr>
-    <td align="center" valign="middle"><img src="https://img.shields.io/badge/%E2%9A%97%20EXPLORING-a371f7?style=for-the-badge&labelColor=0b0b0d" /></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/%E2%9A%97%20EXPLORING-B45309?style=for-the-badge&labelColor=0b0b0d" /></td>
     <td valign="middle">🧪 Experimenting with <b>GitOps</b> and <b>Prometheus / Grafana</b> for observability.</td>
   </tr>
 </table>
