@@ -81,14 +81,6 @@ I'm a **Software Engineering graduate** and **DevOps engineer** passionate about
 
 </div>
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img height="165" src="https://streak-stats.demolab.com/?user=ShashmithaBan&hide_border=true&background=0b0b0d&stroke=38BDAF&ring=38BDAF&fire=38BDAF&currStreakLabel=38BDAF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
-
-</div>
-
 ## 📈 Activity Graph
 
 <div align="center">
