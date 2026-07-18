@@ -1,7 +1,9 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0d,100:38BDAF&height=220&section=header&text=Shashmitha%20Bandara&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20Automation%20Enthusiast&descSize=18&descAlignY=58" width="100%" alt="header" />
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDAF&center=true&vCenter=true&width=650&height=70&lines=Hi+there%2C+I'm+Shashmitha+Bandara+%F0%9F%91%8B;Aspiring+DevOps+Engineer;Cloud+%26+Automation+Enthusiast;Infrastructure+as+Code+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDAF&center=true&vCenter=true&width=650&height=55&lines=DevOps+Engineer+%40+H2O.ai;Cloud+%26+Automation+Enthusiast;Infrastructure+as+Code+Advocate;Co-Founder+%40+Luminary+Studio" alt="Typing SVG" />
 </a>
 
 <br>
@@ -10,15 +12,13 @@
 [![Medium](https://img.shields.io/badge/Medium-read-38BDAF?style=for-the-badge&logo=medium&logoColor=white&labelColor=0b0b0d)](https://medium.com/@gimansabandara2001)
 [![Email](https://img.shields.io/badge/Email-say%20hi-38BDAF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0b0d)](mailto:gimansabandara2001@gmail.com)
 
-<br>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ShashmithaBan&label=Profile%20Views&color=38BDAF&style=for-the-badge)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
 
-I'm a **DevOps-focused undergraduate** passionate about building, automating, and scaling cloud-native systems. I thrive at the intersection of development and operations — **CI/CD pipelines**, **container orchestration**, and **Infrastructure as Code**. My mission is to design reliable, secure, and scalable systems using modern DevOps practices.
+I'm a **Software Engineering graduate** and **DevOps engineer** passionate about building, automating, and scaling cloud-native systems. I thrive at the intersection of development and operations — **CI/CD pipelines**, **container orchestration**, and **Infrastructure as Code**. My mission is to design reliable, secure, and scalable systems using modern DevOps practices.
 
 ## 🚀 What I Bring to the Table
 
@@ -26,16 +26,29 @@ I'm a **DevOps-focused undergraduate** passionate about building, automating, an
 | --- | --- |
 | **☁️ DevOps & Cloud** | Hands-on with AWS (EC2, S3, IAM, VPC), CI/CD via GitHub Actions, and containerization with Docker. |
 | **🛠️ Infrastructure as Code** | Building automated, repeatable environments using Terraform. |
-| **🧑‍💻 Software Development** | Backend & automation scripting with Python and Java. |
+| **🧑‍💻 Software Development** | Frontend with React.js & Redux; backend & automation scripting with Python and Java. |
 | **🐧 Systems & Networking** | Strong grasp of Linux fundamentals, Shell scripting, and Cloud Networking. |
 
 ## 💼 Experience
 
 | Role | Company | Period |
 | --- | --- | --- |
+| **Intern DevOps Engineer** | H2O.ai · Full-time · Colombo, Sri Lanka · Hybrid | Apr 2026 – Present |
 | **Co-Founder** | [Luminary](https://github.com/luminary-dev) · Part-time · Sri Lanka | Jul 2024 – Present |
+| **Software Engineer Intern** | Ceyentra Technologies · Sri Lanka | Oct 2024 – Apr 2025 |
 
-<sub>Web design & development · Payment gateway integrations · PR campaigns · Graphic design</sub>
+<sub>At Ceyentra: frontend development with React.js, Redux & JavaScript — UI features, theme customization, and API integrations within an Agile team.</sub>
+
+## 🤝 Leadership & Volunteering
+
+| Role | Organization | Period |
+| --- | --- | --- |
+| **Vice Chairperson** | IEEE Student Branch – University of Kelaniya | Aug 2024 – Aug 2025 |
+| **Editor** | IEEE Student Branch – University of Kelaniya | May 2023 – Jul 2024 |
+| **Team Leader – Digital Media** | Rotaract Club – University of Kelaniya | Nov 2023 – Nov 2024 |
+| **PR Coordinator (Harawuma)** | Rotaract Club – University of Kelaniya | Jan 2024 – Apr 2024 |
+| **Co-Chair (Graphify)** | Rotaract Club – University of Kelaniya | Dec 2023 – Mar 2024 |
+| **PR Coordinator (Spotlight 2.0)** | Rotaract Club – University of Kelaniya | Aug 2023 – Jan 2024 |
 
 ## 🧰 Tech Stack
 
@@ -60,6 +73,22 @@ I'm a **DevOps-focused undergraduate** passionate about building, automating, an
 
 </div>
 
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShashmithaBan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies" />
+
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashmithaBan&hide_border=true&bg_color=0b0b0d&color=38BDAF&line=38BDAF&point=ffffff&area=true&area_color=38BDAF" width="100%" alt="Activity Graph" />
+
+</div>
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -78,7 +107,7 @@ I'm a **DevOps-focused undergraduate** passionate about building, automating, an
 
 ## 🌱 Currently...
 
-- 🎓 Finishing my final year of undergraduate studies.
+- 🚀 Working as an **Intern DevOps Engineer** at **H2O.ai**.
 - ☁️ Deepening my knowledge in **Kubernetes** and **Terraform Cloud**.
 - 🧪 Experimenting with **GitOps** and **Prometheus / Grafana** for monitoring.
 
@@ -95,5 +124,7 @@ I'm a **DevOps-focused undergraduate** passionate about building, automating, an
 <br>
 
 <sub><i>"Automate everything, document what you can't."</i></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDAF,100:0b0b0d&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
