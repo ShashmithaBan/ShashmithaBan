@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0d,100:38BDAF&height=220&section=header&text=Shashmitha%20Bandara&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20Automation%20Enthusiast&descSize=18&descAlignY=58" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDAF&center=true&vCenter=true&width=650&height=55&lines=DevOps+Engineer+%40+H2O.ai;Cloud+%26+Automation+Enthusiast;Infrastructure+as+Code+Advocate;Co-Founder+%40+Luminary+Studio" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDAF&center=true&vCenter=true&width=650&height=55&lines=DevOps+Engineer+%40+H2O.ai;Cloud+%26+Automation+Enthusiast;Infrastructure+as+Code+Advocate;Container+Orchestration+with+Kubernetes" alt="Typing SVG" />
 </a>
 
 <br>
@@ -31,24 +31,60 @@ I'm a **Software Engineering graduate** and **DevOps engineer** passionate about
 
 ## 💼 Experience
 
-| Role | Company | Period |
-| --- | --- | --- |
-| **Intern DevOps Engineer** | H2O.ai · Full-time · Colombo, Sri Lanka · Hybrid | Apr 2026 – Present |
-| **Co-Founder** | [Luminary](https://github.com/luminary-dev) · Part-time · Sri Lanka | Jul 2024 – Present |
-| **Software Engineer Intern** | Ceyentra Technologies · Sri Lanka | Oct 2024 – Apr 2025 |
-
-<sub>At Ceyentra: frontend development with React.js, Redux & JavaScript — UI features, theme customization, and API integrations within an Agile team.</sub>
+<table width="100%">
+  <tr>
+    <td width="52" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=kubernetes" width="38" /></td>
+    <td valign="middle">
+      <b>Intern DevOps Engineer</b><br/>
+      <sub>🏢 H2O.ai &nbsp;·&nbsp; Full-time &nbsp;·&nbsp; Colombo, Sri Lanka &nbsp;·&nbsp; Hybrid</sub>
+    </td>
+    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Apr%202026%20%E2%86%92%20Present-38BDAF?style=flat-square&labelColor=0b0b0d" /></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=react" width="38" /></td>
+    <td valign="middle">
+      <b>Software Engineer Intern</b><br/>
+      <sub>🏢 Ceyentra Technologies &nbsp;·&nbsp; Sri Lanka</sub><br/>
+      <sub>⚛️ React.js · Redux · JavaScript — UI features, theme customization & API integrations in an Agile team.</sub>
+    </td>
+    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Oct%202024%20%E2%86%92%20Apr%202025-8b949e?style=flat-square&labelColor=0b0b0d" /></td>
+  </tr>
+</table>
 
 ## 🤝 Leadership & Volunteering
 
-| Role | Organization | Period |
-| --- | --- | --- |
-| **Vice Chairperson** | IEEE Student Branch – University of Kelaniya | Aug 2024 – Aug 2025 |
-| **Editor** | IEEE Student Branch – University of Kelaniya | May 2023 – Jul 2024 |
-| **Team Leader – Digital Media** | Rotaract Club – University of Kelaniya | Nov 2023 – Nov 2024 |
-| **PR Coordinator (Harawuma)** | Rotaract Club – University of Kelaniya | Jan 2024 – Apr 2024 |
-| **Co-Chair (Graphify)** | Rotaract Club – University of Kelaniya | Dec 2023 – Mar 2024 |
-| **PR Coordinator (Spotlight 2.0)** | Rotaract Club – University of Kelaniya | Aug 2023 – Jan 2024 |
+<table width="100%">
+  <tr>
+    <td width="52" align="center" valign="middle">🧭</td>
+    <td valign="middle"><b>Vice Chairperson</b><br/><sub>IEEE Student Branch — University of Kelaniya</sub></td>
+    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Aug%202024%20%E2%86%92%20Aug%202025-38BDAF?style=flat-square&labelColor=0b0b0d" /></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">✏️</td>
+    <td valign="middle"><b>Editor</b><br/><sub>IEEE Student Branch — University of Kelaniya</sub></td>
+    <td align="right" valign="middle"><img src="https://img.shields.io/badge/May%202023%20%E2%86%92%20Jul%202024-8b949e?style=flat-square&labelColor=0b0b0d" /></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">🎬</td>
+    <td valign="middle"><b>Team Leader — Digital Media</b><br/><sub>Rotaract Club — University of Kelaniya</sub></td>
+    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Nov%202023%20%E2%86%92%20Nov%202024-8b949e?style=flat-square&labelColor=0b0b0d" /></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">🎨</td>
+    <td valign="middle"><b>Co-Chair — Graphify</b><br/><sub>Rotaract Club — University of Kelaniya</sub></td>
+    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Dec%202023%20%E2%86%92%20Mar%202024-8b949e?style=flat-square&labelColor=0b0b0d" /></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">📣</td>
+    <td valign="middle"><b>PR Coordinator — Harawuma</b><br/><sub>Rotaract Club — University of Kelaniya</sub></td>
+    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Jan%202024%20%E2%86%92%20Apr%202024-8b949e?style=flat-square&labelColor=0b0b0d" /></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">📣</td>
+    <td valign="middle"><b>PR Coordinator — Spotlight 2.0</b><br/><sub>Rotaract Club — University of Kelaniya</sub></td>
+    <td align="right" valign="middle"><img src="https://img.shields.io/badge/Aug%202023%20%E2%86%92%20Jan%202024-8b949e?style=flat-square&labelColor=0b0b0d" /></td>
+  </tr>
+</table>
 
 ## 🧰 Tech Stack
 
