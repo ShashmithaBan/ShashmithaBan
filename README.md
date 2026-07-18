@@ -62,43 +62,14 @@ I'm a **Software Engineering graduate** and **DevOps engineer** passionate about
 
 ## 🤝 Leadership & Volunteering
 
-<table width="100%">
-  <tr>
-    <th align="left">Role</th>
-    <th width="100%" align="left">Organization</th>
-    <th align="left">Period</th>
-  </tr>
-  <tr>
-    <td valign="middle"><b>🧭 Vice Chairperson</b></td>
-    <td valign="middle">IEEE Student Branch — University of Kelaniya</td>
-    <td valign="middle">Aug 2024 – Aug 2025</td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>✏️ Editor</b></td>
-    <td valign="middle">IEEE Student Branch — University of Kelaniya</td>
-    <td valign="middle">May 2023 – Jul 2024</td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>🎬 Team Leader — Digital Media</b></td>
-    <td valign="middle">Rotaract Club — University of Kelaniya</td>
-    <td valign="middle">Nov 2023 – Nov 2024</td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>🎨 Co-Chair — Graphify</b></td>
-    <td valign="middle">Rotaract Club — University of Kelaniya</td>
-    <td valign="middle">Dec 2023 – Mar 2024</td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>📣 PR Coordinator — Harawuma</b></td>
-    <td valign="middle">Rotaract Club — University of Kelaniya</td>
-    <td valign="middle">Jan 2024 – Apr 2024</td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>📣 PR Coordinator — Spotlight 2.0</b></td>
-    <td valign="middle">Rotaract Club — University of Kelaniya</td>
-    <td valign="middle">Aug 2023 – Jan 2024</td>
-  </tr>
-</table>
+| Role | Organization | Period |
+| --- | --- | --- |
+| **🧭 Vice Chairperson** | IEEE Student Branch — University of Kelaniya | Aug 2024 – Aug 2025 |
+| **✏️ Editor** | IEEE Student Branch — University of Kelaniya | May 2023 – Jul 2024 |
+| **🎬 Team Leader — Digital Media** | Rotaract Club — University of Kelaniya | Nov 2023 – Nov 2024 |
+| **🎨 Co-Chair — Graphify** | Rotaract Club — University of Kelaniya | Dec 2023 – Mar 2024 |
+| **📣 PR Coordinator — Harawuma** | Rotaract Club — University of Kelaniya | Jan 2024 – Apr 2024 |
+| **📣 PR Coordinator — Spotlight 2.0** | Rotaract Club — University of Kelaniya | Aug 2023 – Jan 2024 |
 
 ## 🧰 Tech Stack
 
