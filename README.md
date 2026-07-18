@@ -34,7 +34,7 @@ I'm a **Software Engineering graduate** and **DevOps engineer** passionate about
 <table width="100%">
   <tr>
     <td width="72" align="center" valign="middle"><img src="https://h2o.ai/content/experience-fragments/h2o/us/en/site/header/master/_jcr_content/root/container/header_copy/logo.coreimg.svg/1782337746232/h2o-logo.svg" width="52" alt="H2O.ai" /></td>
-    <td width="100%" valign="middle">
+    <td valign="middle">
       <b>◈ Intern DevOps Engineer</b><br/>
       <img src="https://img.shields.io/badge/H2O.ai-38BDAF?style=flat-square&logo=h2o&logoColor=white&labelColor=0b0b0d" />
       <img src="https://img.shields.io/badge/Full--time-1a1a1f?style=flat-square" />
@@ -46,7 +46,7 @@ I'm a **Software Engineering graduate** and **DevOps engineer** passionate about
   <tr><td colspan="3"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="1px"></td></tr>
   <tr>
     <td align="center" valign="middle"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaTiTNJhimuLhoRhwmpPjYdZEtIRTYt6alZ_cCTnM0mQ&s=10" width="48" alt="Ceyentra" /></td>
-    <td width="100%" valign="middle">
+    <td valign="middle">
       <b>◈ Software Engineer Intern</b><br/>
       <img src="https://img.shields.io/badge/Ceyentra%20Technologies-38BDAF?style=flat-square&labelColor=0b0b0d" />
       <img src="https://img.shields.io/badge/React.js-1a1a1f?style=flat-square&logo=react&logoColor=61DAFB" />
